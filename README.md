@@ -7,3 +7,4 @@ Error:
     Error: Unexpected value 'NgStringPipesModule2' imported by the module 'DynamicTestModule'. Please add an @NgModule annotation.
 
 
+Run `npm run test` to see the error.
