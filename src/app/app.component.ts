@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'jest-tests';
+
+  textToShorten = 'this is a long text to shorten';
 }
